@@ -2,7 +2,10 @@
 title: "example-notebook.qmd"
 format: html
 editor: visual
+author: "Katherine X. Pérez Rivera"
 ---
+
+
 
 ## Quarto
 
